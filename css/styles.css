@@ -24,6 +24,7 @@ main {
     justify-content: center; 
     height: 100vh;
     border: 15px solid #f2f3f4;
+	gap: 5px;
 }
 
 #a, #b {

@@ -38,7 +38,7 @@ function createsoundbite(sound){
 
 //Initialize two sound clips with 1 fallback file each:
 
-var mouseoversound=createsoundbite("whistle.ogg", "whistle.mp3")
-var clicksound=createsoundbite("click.ogg", "click.mp3")
+var mouseoversound=createsoundbite("keep_the_family_close.mp3", "ultralight_beam.mp3")
+
 
 </script>
